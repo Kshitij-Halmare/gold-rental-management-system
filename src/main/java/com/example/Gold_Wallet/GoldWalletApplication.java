@@ -8,6 +8,7 @@ public class GoldWalletApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GoldWalletApplication.class, args);
+		System.out.println("APPLICATION RUNNING...");
 	}
 
 }
